@@ -1,0 +1,41 @@
+name: Author or credit correction
+description: Supply missing attribution, historical evidence, permission information, or a creator request.
+title: "[Credit]: "
+labels:
+  - attribution
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping us credit the original creators accurately.
+  - type: input
+    id: work
+    attributes:
+      label: Mod, texture pack, sound set, or other work
+      placeholder: Name and version, if known
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction or request
+      description: Explain what should be added, changed, linked, credited, or reviewed for removal.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Link original or archived pages, repositories, included readmes, or other primary evidence.
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the work
+      options:
+        - Original creator or rights holder
+        - Contributor or former team member
+        - Archivist or researcher
+        - Community member or fan
+    validations:
+      required: true

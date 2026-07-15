@@ -1,0 +1,26 @@
+# Never commit the complete local instance or recovered binaries by accident.
+*.jar
+*.zip
+*.class
+*.ogg
+*.wav
+*.mcr
+*.dat
+*.log
+
+.minecraft/
+jarmods/
+work/
+release/
+saves/
+screenshots/
+stats/
+accounts.json
+instance.cfg
+mmc-pack.json
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

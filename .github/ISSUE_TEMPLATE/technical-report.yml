@@ -1,0 +1,33 @@
+name: Technical report
+description: Report a reproducible Minecraft 1.1 compatibility problem.
+title: "[Technical]: "
+labels:
+  - technical
+body:
+  - type: input
+    id: java
+    attributes:
+      label: Java version
+      placeholder: Java 8 update number
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      placeholder: List the smallest repeatable sequence of steps.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Relevant log excerpt or link
+      description: Remove account details, tokens, and other personal data before posting.
+    validations:
+      required: true
