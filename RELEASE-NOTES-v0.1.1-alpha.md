@@ -1,8 +1,6 @@
-# v0.1.0-alpha — first MultiMC preservation build
+# v0.1.1-alpha — corrected MultiMC import package
 
-> **Superseded by [v0.1.1-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.1-alpha).** This first archive placed the instance files directly at the ZIP root instead of inside a single outer instance folder. Use v0.1.1-alpha for MultiMC's **Import from ZIP** option.
-
-This pre-release provides a clean, importable MultiMC instance for Minecraft 1.1.
+This pre-release corrects the ZIP structure used by MultiMC's **Import from ZIP** option. All instance files are now contained inside one outer `UberHaxorNova Quad Mountain` folder, matching a normal MultiMC instance export.
 
 ## Included
 
@@ -19,17 +17,18 @@ This pre-release provides a clean, importable MultiMC instance for Minecraft 1.1
 - Player worlds and statistics.
 - Minecraft accounts, tokens, or launcher authentication data.
 - Screenshots and gameplay logs.
-- Original-download archive and development workspaces.
+- Original-download archives and development workspaces.
 
 ## Installation
 
-Import the ZIP through **MultiMC → Add Instance → Import from ZIP**. Use Java 8 for the best Minecraft 1.1 compatibility.
+Download the `UberHaxorNova-Quad-Mountain-MultiMC-v0.1.1-alpha.zip` asset, then choose **MultiMC → Add Instance → Import from ZIP**. Use Java 8 for the best Minecraft 1.1 compatibility.
 
 ## Verification
 
-- SHA-256: `BA7790800CDBD15D4114412D43012060AA7B0FB02133D9A5AE6C6D80430C55B1`
+- SHA-256: `303E74D39A4D3F4A7A5231F2E62BE1283AA745156546A76E93F33977B3243BA9`
 - Microsoft Defender custom scan: no threats found on 2026-07-15.
-- Archive inspection: no account, save, statistic, screenshot, log, or development directory included.
+- Archive inspection: 1,251 entries, all inside one instance folder.
+- No account, save, statistic, screenshot, log, or development directory included.
 
 Security scanning cannot prove that every historical binary is bug-free. Treat this as an alpha preservation build and report reproducible problems through GitHub Issues.
 

@@ -6,10 +6,11 @@ Do not post account tokens, launcher credentials, private crash reports, or othe
 
 ## Alpha ZIP verification
 
-The `v0.1.0-alpha` MultiMC ZIP was checked before release:
+The corrected `v0.1.1-alpha` MultiMC ZIP was checked before release:
 
 - Microsoft Defender custom scan: no threats found on 2026-07-15.
 - No Minecraft account, save, statistic, screenshot, gameplay log, or development folder was found in the archive.
-- Published SHA-256: `BA7790800CDBD15D4114412D43012060AA7B0FB02133D9A5AE6C6D80430C55B1`
+- Archive structure: 1,251 entries contained within one `UberHaxorNova Quad Mountain` instance folder.
+- Published SHA-256: `303E74D39A4D3F4A7A5231F2E62BE1283AA745156546A76E93F33977B3243BA9`
 
 A clean scan is useful evidence but not an absolute guarantee. This project combines historical software from many sources; use the alpha build with appropriate caution and report reproducible concerns.
