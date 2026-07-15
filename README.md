@@ -22,9 +22,13 @@ See [MODLIST.md](MODLIST.md) and [COMPATIBILITY-WORK.md](COMPATIBILITY-WORK.md) 
 
 ## Downloads
 
-The complete binary MultiMC export is **not publicly posted yet**. Many recovered 2011–2012 mods have missing or unclear redistribution terms, and several required compatibility repairs. We are auditing credits, sources, licenses, and permissions before publishing binaries.
+The first complete MultiMC test build is available as a clearly labeled **v0.1.0-alpha pre-release**:
 
-The intended installation process is documented in [MULTIMC-INSTALL.md](MULTIMC-INSTALL.md) so it is ready when a cleared release becomes available.
+- [Download the latest GitHub release](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases)
+- Follow [MULTIMC-INSTALL.md](MULTIMC-INSTALL.md) to import it.
+- Review [KNOWN-ISSUES.md](KNOWN-ISSUES.md) before playing.
+
+This is an archival test build. Credits, original sources, licenses, and permissions for numerous recovered 2011–2012 works are still being researched. Original creators and rights holders are invited to submit corrections, attribution information, link updates, or removal-review requests through the repository's issue forms.
 
 ## Help preserve it
 
