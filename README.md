@@ -22,9 +22,9 @@ See [MODLIST.md](MODLIST.md) and [COMPATIBILITY-WORK.md](COMPATIBILITY-WORK.md) 
 
 ## Downloads
 
-The corrected MultiMC import build is available as a clearly labeled **v0.1.1-alpha pre-release**. Its ZIP contains one outer instance folder, matching the layout MultiMC expects when importing an instance:
+The latest MultiMC import build is available as a clearly labeled **v0.1.2-alpha pre-release**. Its ZIP contains one outer instance folder, matching the layout MultiMC expects when importing an instance. This update also includes the original Quad Island Survival world as both a ready-to-play save folder and its preserved RAR archive:
 
-- [Download v0.1.1-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.1-alpha)
+- [Download v0.1.2-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.2-alpha)
 - Follow [MULTIMC-INSTALL.md](MULTIMC-INSTALL.md) to import it.
 - Review [KNOWN-ISSUES.md](KNOWN-ISSUES.md) before playing.
 

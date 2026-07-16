@@ -15,6 +15,8 @@
 
 The game should reach the main menu. Open a world and press `E` to confirm that Not Enough Items appears around the inventory.
 
+The included **Quad Island Survival** world should appear in the Singleplayer world list. Its original `Quad Island Survival.rar` archive is also preserved inside `.minecraft/saves`; Minecraft ignores the archive and loads the extracted folder.
+
 If the NEI item panel is hidden, press `O` once while the inventory is open.
 
 ## Memory

@@ -1,5 +1,7 @@
 # v0.1.1-alpha — corrected MultiMC import package
 
+> **Superseded by [v0.1.2-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.2-alpha).** v0.1.2 keeps this corrected import structure and adds the preserved Quad Island Survival world.
+
 This pre-release corrects the ZIP structure used by MultiMC's **Import from ZIP** option. All instance files are now contained inside one outer `UberHaxorNova Quad Mountain` folder, matching a normal MultiMC instance export.
 
 ## Included
