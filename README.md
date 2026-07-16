@@ -1,5 +1,13 @@
 # UberHaxorNova Quad Mountain
 
+<p align="center">
+  <img src="assets/technic-icon-50x50.png" alt="Quad Mountain Survival icon" width="50" height="50">
+</p>
+
+<p align="center">
+  <img src="assets/technic-logo-370x220.png" alt="Quad Mountain Survival logo" width="370" height="220">
+</p>
+
 A fan-led preservation project rebuilding the Minecraft 1.1 mod setup associated with UberHaxorNova's **Quad Mountain Survival** series.
 
 This project is about preserving an early-2012 modded Minecraft experience: recovering period releases, identifying the original series mods, repairing incompatibilities, and documenting enough of the work that other fans can reproduce it.
@@ -22,7 +30,19 @@ See [MODLIST.md](MODLIST.md) and [COMPATIBILITY-WORK.md](COMPATIBILITY-WORK.md) 
 
 ## Downloads
 
-The latest MultiMC import build is available as a clearly labeled **v0.1.2-alpha pre-release**. Its ZIP contains one outer instance folder, matching the layout MultiMC expects when importing an instance. This update also includes the original Quad Island Survival world as both a ready-to-play save folder and its preserved RAR archive:
+The latest build is available as a clearly labeled **v0.1.2-alpha pre-release**. It includes the original Quad Island Survival world as both a ready-to-play save folder and its preserved RAR archive.
+
+### Install through ATLauncher
+
+1. Open ATLauncher and browse packs from the **Technic** platform.
+2. Search for **Nova Quad Mountain Recreated**.
+3. Select the pack and install it.
+
+The Technic build contains the restored Minecraft 1.1 mod setup, resources, texture packs, and Quad Island Survival world. It remains hidden while launcher installation is being tested, so direct access may be required until the listing is made public.
+
+### Import with MultiMC
+
+The MultiMC ZIP contains one outer instance folder, matching the layout MultiMC expects when importing an instance:
 
 - [Download v0.1.2-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.2-alpha)
 - Follow [MULTIMC-INSTALL.md](MULTIMC-INSTALL.md) to import it.
@@ -43,5 +63,7 @@ Recovered does not mean public domain. We will credit original creators wherever
 Repository-authored documentation is covered by [LICENSE.md](LICENSE.md). Third-party names and works retain their original ownership and licenses.
 
 ## Original inspiration
+
+![Quad Mountain Survival launcher background](assets/technic-background-900x600.png)
 
 - [UberHaxorNova's Quad Mountain Survival video](https://www.youtube.com/watch?v=Sewl7P5K0Z8)
