@@ -38,6 +38,12 @@ The latest build is available as a clearly labeled **v0.1.2-alpha pre-release**.
 2. Search for **Nova Quad Mountain Recreated**.
 3. Select the pack and install it.
 
+The search result should look like the screenshot below. Make sure **Technic** is selected in the left sidebar, confirm the pack name, and then choose **Install**.
+
+<p align="center">
+  <img src="assets/atlauncher-technic-search.png" alt="Nova Quad Mountain Recreated shown in ATLauncher's Technic search results" width="900">
+</p>
+
 The Technic build contains the restored Minecraft 1.1 mod setup, resources, texture packs, and Quad Island Survival world. It remains hidden while launcher installation is being tested, so direct access may be required until the listing is made public.
 
 ### Import with MultiMC
