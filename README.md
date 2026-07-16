@@ -30,7 +30,7 @@ See [MODLIST.md](MODLIST.md) and [COMPATIBILITY-WORK.md](COMPATIBILITY-WORK.md) 
 
 ## Downloads
 
-The latest build is available as a clearly labeled **v0.1.2-alpha pre-release**. It includes the original Quad Island Survival world as both a ready-to-play save folder and its preserved RAR archive.
+The latest build is available as a clearly labeled **v1.2.0 pre-release**. It includes the original Quad Island Survival world as both a ready-to-play save folder and its preserved RAR archive.
 
 ### Install through ATLauncher
 
@@ -50,7 +50,7 @@ The Technic build contains the restored Minecraft 1.1 mod setup, resources, text
 
 The MultiMC ZIP contains one outer instance folder, matching the layout MultiMC expects when importing an instance:
 
-- [Download v0.1.2-alpha](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v0.1.2-alpha)
+- [Download v1.2.0](https://github.com/waffledew/UberHaxorNova-Quad-Mountain/releases/tag/v1.2.0)
 - Follow [MULTIMC-INSTALL.md](MULTIMC-INSTALL.md) to import it.
 - Review [KNOWN-ISSUES.md](KNOWN-ISSUES.md) before playing.
 
