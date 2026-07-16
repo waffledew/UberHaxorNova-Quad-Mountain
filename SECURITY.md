@@ -6,7 +6,7 @@ Do not post account tokens, launcher credentials, private crash reports, or othe
 
 ## Alpha ZIP verification
 
-The `v0.1.2-alpha` MultiMC ZIP was checked before release:
+The `v1.2.0` MultiMC ZIP was checked before release:
 
 - Microsoft Defender custom scan: no threats found on 2026-07-15.
 - No Minecraft account, statistic, screenshot, gameplay log, or development folder was found in the archive.
